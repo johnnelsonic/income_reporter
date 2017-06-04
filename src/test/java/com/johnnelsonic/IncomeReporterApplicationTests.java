@@ -1,4 +1,5 @@
-package com.nelsonic;
+package com.johnnelsonic;
+
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +12,7 @@ public class IncomeReporterApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("test passed");
 	}
 
 }
